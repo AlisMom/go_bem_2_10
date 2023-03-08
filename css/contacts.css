@@ -1,0 +1,45 @@
+.contacts {
+    padding: 50px 0 50px;
+}
+
+.contacts__title {
+    padding-bottom: 54px;
+}
+
+.contacts__img {
+    margin-right: 30px;
+}
+
+
+.contacts__item {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 11px;
+}
+
+.contacts__item:first-child {
+    margin-bottom: 21px;
+
+}
+
+.contacts__item-social {
+    margin-right: 26px;
+}
+
+.contacts__item-social:last-child {
+    margin-right: 0px;
+}
+
+.contacts__link {
+    display: flex;
+}
+
+
+
+.contacts__list-social {
+    display: flex;
+    margin-top: 39px;
+}

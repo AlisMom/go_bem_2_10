@@ -1,0 +1,30 @@
+.banner {
+    padding: 146px 0 50px;
+}
+
+.banner__header {
+    height: 823px;
+}
+
+.page__title {
+    font-size: 150px;
+    line-height: 100%;
+    font-weight: 900;
+    margin-bottom: 0;
+    position: relative;
+    margin: 0;
+    letter-spacing: -0.1em;
+}
+
+.page__title:after {
+    position: absolute;
+    content: url(./../img/banner.png);
+    top: 70px;
+    right: 0px;
+}
+
+.page__text {
+    font-size: 28px;
+    line-height: 50px;
+    padding-left: 100px;
+}

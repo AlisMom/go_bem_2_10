@@ -1,0 +1,11 @@
+.book {
+    padding: 50px 0 50px;
+}
+
+.book__main-title {
+    padding-bottom: 50px;
+}
+
+.book__fieldset { 
+    padding: 10px 15px;
+}
